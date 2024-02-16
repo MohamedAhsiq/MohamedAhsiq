@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MohamedAhsiq
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ML,AI,Data Visualization Tools
-- 💞️ I’m looking to collaborate on Data Analysis Projects
-- 📫 How to reach me Email
+- 👀 I’m interested in ...Data Science
+- 🌱 I’m currently learning ... ML,AI,Data Visualization Tools
+- 💞️ I’m looking to collaborate on ... Data Analysis Projects
+- 📫 How to reach me ... Email
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Curious to be a Nerd
 
